@@ -1,0 +1,25 @@
+#wirte a program to find area of a circle
+#wirte a program to perimeter of a circle
+#write a program to find area of a traingle
+#34write a program to frind perimeter of a traingle
+
+#r=int(input())
+#area=3.14*r*r
+#print(area)
+
+#r=int(input())
+#perimeter=2*3.14*r
+#print(perimeter)
+
+#b=int(input())
+#h=int(input())
+#area=(0.5*b*h)
+#print(area)
+
+
+a=int(input())
+b=int(input())
+c=int(input())
+perimeter=a+b+c
+print(perimeter)
+
